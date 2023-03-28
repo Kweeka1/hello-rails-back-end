@@ -1,7 +1,7 @@
 Rails.application.routes.draw do
   get '/greetings', to: 'greetings#index'
-  # Define your application routes per the DSL in https://guides.rubyonrails.org/routing.html
 
-  # Defines the root path route ("/")
+  match '*all', controller: 'application', action: 'cors_preflight_check', via: [:options]
+
   root "greetings#index"
 end
