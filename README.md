@@ -84,7 +84,7 @@ To setup the project follow the steps:
 
 1. Clone this project using Git Bash: 
     ``` 
-    git clone https://github.com/Kweeka1/hello-rails-react.git
+    git clone https://github.com/Kweeka1/hello-rails-back-end.git
     ```
   
 2. Inside the project directory, install the project's dependencies
