@@ -31,6 +31,13 @@
 ### Tech Stack <a name="tech-stack"></a>
 
 <details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://github.com/Kweeka1/hello-react-front-end">Link to client repository</a></li>
+  </ul>
+</details>
+
+<details>
   <summary>Server</summary>
   <ul>
     <li><a href="https://rubyonrails.org/">Ruby On Rails</a></li>
